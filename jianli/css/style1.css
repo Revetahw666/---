@@ -1,0 +1,23 @@
+p{
+    overflow:hidden;
+    display: inline;
+}
+.container{
+    box-sizing: border-box;
+}
+.jianli{
+    display: inline-block;
+    float: left;
+    width: 20%;
+    box-sizing:border-box;
+    height:700px;
+    background-color: aqua;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+.information{
+    display: inline-block;
+
+}
